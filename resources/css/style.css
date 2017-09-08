@@ -1,11 +1,24 @@
-html {
-  background: black;
+* {
+    box-sizing: border-box;
+    font-family: verdana, sans-serif;
+    font-weight: normal;
+    text-align: center;
 }
 
 h1 {
-  font-family: verdana;
+  font-family: Verdana, sans-serif;
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
+}
+
+h2 {
+  font-size: 21px;
+  color: gray;
+}
+
+.link {
+  font-size: 50px;
+  color: white;
+  text-transform: 
 }
