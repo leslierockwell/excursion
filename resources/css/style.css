@@ -23,7 +23,13 @@ p {
   color: gray;
 }
 
-a.link {
-  font-size: 16px:
+a {
+  font-size: 16px;
   color: aquamarine;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#footer {
+  text-align: right;
 }
